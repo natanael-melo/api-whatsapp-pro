@@ -121,7 +121,7 @@ Go to the project directory and install all dependencies.
 >
 
 ```sh
-cd whatsapp-api-v2
+cd api-whatsapp-pro
 
 npm install
 # or
